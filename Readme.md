@@ -301,7 +301,7 @@ Official documentation :
 Try with a simple gmail account :
 * You should configure your Email account first : https://myaccount.google.com/security (Source : https://waytolearnx.com/2020/03/envoyer-un-mail-avec-java-en-utilisant-gmail.html)
 
-![image](./MAIL_Auto/mail1.PNG)
+![image](./Mail_Auto/mail1.PNG)
 
 <br>
 
@@ -326,7 +326,7 @@ JobMail1.java
 
 Result : projet Quartz-JavaMail
 
-![image](./MAIL_Auto/mail.PNG)
+![image](./Mail_Auto/mail.PNG)
 
 <br>
 
